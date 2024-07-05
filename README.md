@@ -8,7 +8,7 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,svg,figma,md,vscode,codepen,netlify)]() 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,github,svg,figma,vscode,netlify)]() 
 
 
 
